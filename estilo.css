@@ -119,6 +119,7 @@ flex-grow: 0;
 
 }
 #btn-encrip{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 15px;
     width: 25%;
     height: 50%;
@@ -128,6 +129,7 @@ flex-grow: 0;
 }
 
 #btn-desdc{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 15px;
     width: 25%;
     height: 50%;
